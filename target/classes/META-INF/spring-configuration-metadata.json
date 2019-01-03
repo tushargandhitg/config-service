@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "calculator",
+      "type": "service.config.CalculatorServiceConfig",
+      "sourceType": "service.config.CalculatorServiceConfig"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
